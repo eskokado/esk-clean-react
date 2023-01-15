@@ -1,0 +1,12 @@
+{
+  "semi": false,
+  "trailingComma": "none",
+  "singleQuote": true,
+  "vetur.format.defaultFormatterOptions": {
+    "prettier": {
+      "singleQuote": true,
+      "semi": false,
+      "trailingComma": "none"
+    }
+  }
+}
